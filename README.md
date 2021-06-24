@@ -1,0 +1,3 @@
+- 👋 Hi, I am an INRAE Research Engineer in Statistics
+- 👀 I’m interested in the development and application of statistical and computational methods to address problems in life sciences, more particularly around omics data.
+- 📫 julie [dot] aubert [at] inrae [dot] fr
